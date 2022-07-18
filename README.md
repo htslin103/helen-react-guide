@@ -1,6 +1,6 @@
 # Project Information
 This project was created by htslin103 by following the Udemy course React: The Complete Guide \
-https://www.udemy.com/course/react-the-complete-guide-incl-redux\ \
+https://www.udemy.com/course/react-the-complete-guide-incl-redux \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
